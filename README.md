@@ -52,8 +52,8 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:kaljermy@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/mohammad-aljermy/)
+- **Email:** [kaljermy@gmail.com](mailto:kaljermy@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/mohammad-aljermy/](https://www.linkedin.com/in/mohammad-aljermy/)
 
 
 ## 💡 Interests
