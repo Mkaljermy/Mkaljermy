@@ -50,18 +50,6 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
