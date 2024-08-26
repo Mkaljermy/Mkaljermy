@@ -31,7 +31,6 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
   <img src="https://img.shields.io/badge/KNIME-FFC000?style=flat&logo=knime&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoML-FF7F00?style=flat&logo=automl&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultralytics-222222?style=flat&logo=ultralytics&logoColor=white"/>
 </p>
 
@@ -45,10 +44,8 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ## 📫 Contact Me
 
-- **Email:**    <a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-
+<a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 ## 💡 Interests
 
