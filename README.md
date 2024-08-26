@@ -52,46 +52,18 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/yourlinkedinprofile/)
+- **Email:** [your.email@example.com](mailto:kaljermy@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/mohammad-aljermy/)
 
----
-
-## 📚 Latest Projects
-
-- [**Project Name**](https://github.com/yourusername/project-name): Brief description of the project.
-- [**Project Name**](https://github.com/yourusername/project-name): Brief description of the project.
-- [**Project Name**](https://github.com/yourusername/project-name): Brief description of the project.
-
----
-
-## 🏆 Certifications & Achievements
-
-- **Certification Name** - Issued by *Issuer Name*
-- **Certification Name** - Issued by *Issuer Name*
-- **Award/Achievement Name**
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning Techniques
-- Big Data Technologies
-- Cloud Computing with AWS/GCP
-
----
 
 ## 💡 Interests
 
 - Data Science
 - Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
 - Artificial Intelligence
 - Data Engineering
 - Technology Trends
-- Trading and Marketing Analytics
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
