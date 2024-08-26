@@ -1,12 +1,5 @@
 <h1 align="center">Hi there, I'm Mohammad Al-Jermy 👋</h1>
 
-<p align="center">
-  <a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with a strong interest in leveraging data to drive impactful insights and solutions. I enjoy working on projects that involve machine learning, deep learning, and data visualization to solve real-world problems.
@@ -52,8 +45,9 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ## 📫 Contact Me
 
-- **Email:** [kaljermy@gmail.com](mailto:kaljermy@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/mohammad-aljermy/](https://www.linkedin.com/in/mohammad-aljermy/)
+- **Email:**    <a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
 
 
 ## 💡 Interests
