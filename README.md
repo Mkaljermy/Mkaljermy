@@ -78,7 +78,8 @@
 
 - 📧 **Email**: <kaljermy@gmail.com>  
 - 📞 **Phone**: [+962 780043496](tel:+962780043496) *(Available on WhatsApp!)*  
-- 💼 **LinkedIn**: [mohammad-aljermy](https://www.linkedin.com/in/mohammad-aljermy/)  
+- 💼 **LinkedIn**: [mohammad-Aljermy](https://www.linkedin.com/in/mohammad-aljermy/)  
+- 💼 **Upwork**: [Mohammad Al-Jermy](https://www.upwork.com/freelancers/~01fc7cd94450687cf5?mp_source=share)
 
 ---
 
@@ -91,7 +92,6 @@ I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into
 <p align="center">
   <em>💻 Turning coffee into code, data into insights, and dreams into AI-powered realities! ☕🚀</em>
 </p>
-
 
 ---
 
