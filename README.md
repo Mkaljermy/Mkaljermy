@@ -77,17 +77,26 @@ I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkaljermy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkaljermy&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats">
 </p>
-![GitHub Snake](https://github.com/Mkaljermy/Mkaljermy/raw/output/snake.svg)
 
 ---
 
-### 🏆 Contribution Graph
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/Mkaljermy/Mkaljermy/raw/output/snake.svg" alt="Contribution Snake">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mkaljermy&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
+
+---
+
+## 🗣️ Languages & Frameworks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaljermy&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
 
 
