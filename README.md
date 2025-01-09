@@ -68,8 +68,12 @@
 I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into something meaningful and impactful! 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" alt="Data Science Fun">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Passionate Data Scientist">
 </p>
+<p align="center">
+  <em>💻 Turning coffee into code, data into insights, and dreams into AI-powered realities! ☕🚀</em>
+</p>
+
 
 ---
 
