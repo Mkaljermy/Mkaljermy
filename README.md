@@ -84,19 +84,3 @@ I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mkaljermy&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
----
-
-## 🗣️ Languages & Frameworks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaljermy&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-
