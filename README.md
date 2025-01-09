@@ -56,8 +56,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
----
-
 ### 🔧 **Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/>
