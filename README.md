@@ -19,7 +19,7 @@
 ## 🛠️ Skills & Tools
 
 ### 🌐 **Programming Languages**
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
