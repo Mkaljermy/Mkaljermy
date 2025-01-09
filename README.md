@@ -64,7 +64,7 @@
 
 ---
 
-## 🌈 Fun Fact
+## ✨ Fun Fact
 I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into something meaningful and impactful! 🚀
 
 <p align="center">
