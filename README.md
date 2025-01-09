@@ -61,7 +61,6 @@
 - 📧 **Email**: <kaljermy@gmail.com>  
 - 📞 **Phone**: [+962 780043496](tel:+962780043496) *(Available on WhatsApp!)*  
 - 💼 **LinkedIn**: [mohammad-aljermy](https://www.linkedin.com/in/mohammad-aljermy/)  
-- 🌐 **Portfolio**: [Mohammad's Projects](https://github.com/mohammad-aljermy)
 
 ---
 
@@ -69,7 +68,7 @@
 I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into something meaningful and impactful! 🚀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Science Fun">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" alt="Data Science Fun">
 </p>
 
 ---
