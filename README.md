@@ -81,8 +81,7 @@ I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mkaljermy&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mkaljermy&theme=radical)
-
+![GitHub Snake](https://github.com/Mkaljermy/Mkaljermy/raw/output/snake.svg)
 
 ---
 
