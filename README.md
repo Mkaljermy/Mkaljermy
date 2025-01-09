@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with a strong interest in leveraging data to drive impactful insights and solutions. I enjoy working on projects that involve machine learning, deep learning, and data visualization to solve real-world problems.
+I am a **Data Scientist**, **AI Engineer**, and **Data Analyst** passionate about turning raw data into actionable insights and innovative solutions. As a recent graduate, I have honed my skills in machine learning, deep learning, and data engineering through real-world projects. I thrive on solving complex challenges and building impactful data-driven solutions.
 
 ---
 
@@ -32,6 +32,9 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ultralytics-222222?style=flat&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoML-00BFFF?style=flat&logo=google%20cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Pipelines-4CAF50?style=flat&logo=data%20pipeline&logoColor=white"/>
 </p>
 
 ### Databases
@@ -42,19 +45,28 @@ I'm a passionate **Data Scientist**, **Data Analyst**, and **AI Engineer** with 
 
 ---
 
-## 📫 Contact Me
-
-<a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
 ## 💡 Interests
 
 - Data Science
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- NLP
+- Natural Language Processing (NLP)
 - Artificial Intelligence
 - Data Engineering
 - Technology Trends
+- Automation in AI Workflows
+
 ---
+
+## 📫 Contact Me
+
+<a href="mailto:kaljermy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammad-aljermy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="tel:+962780043496"><img src="https://img.shields.io/badge/Phone-34A853?style=flat&logo=whatsapp&logoColor=white"/></a>
+
+---
+
+### 🌟 Fun Fact
+
+I enjoy exploring emerging technology trends and their applications in solving real-world challenges. 🚀
