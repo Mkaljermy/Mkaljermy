@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=F7A21A&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+Enthusiast+%7C+Data+Analyst;Passionate+About+Solving+Real-World+Problems!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=F7A21A&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+Enthusiast+%7C+Data+Analyst;Passionate+About+Solving+Real-World+Problems!" alt="Typing SVG">
 </p>
-
 
 ---
 
