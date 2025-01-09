@@ -79,14 +79,16 @@ I believe **"Data is the oil of the 21st century,"** and I enjoy turning it into
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkaljermy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkaljermy&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkaljermy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=Mkaljermy&theme=radical" alt="GitHub Streak">
 </p>
+
 
 ---
 
 ### 🏆 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Mkaljermy/Mkaljermy/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://github.com/Mkaljermy/Mkaljermy/raw/output/snake.svg" alt="Contribution Snake">
 </p>
+
 
