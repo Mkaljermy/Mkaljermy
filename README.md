@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Graduate Data Scientist & AI Engineer**  
+🎓 **Graduate Data Scientist**  
 💡 Passionate about transforming data into actionable insights, building intelligent systems, and exploring cutting-edge technologies.  
 🚀 I specialize in machine learning, deep learning, and building **end-to-end AI solutions** for real-world challenges.  
 
@@ -48,10 +48,10 @@
 ---
 
 ## 🌟 Featured Projects
-🎥 **[Real Estate Price Prediction](https://github.com/mohammad-aljermy/real-estate-prediction)**  
+🎥 **[Real Estate Price Prediction](https://github.com/ZaidHani/Smart-Home-Advisor)**  
 🔧 Built an end-to-end pipeline integrating ETL, ML modeling, and deployment with Apache Airflow and MLflow.  
 
-📈 **[Sentiment Analysis on Arabic Tweets](https://github.com/mohammad-aljermy/arabic-sentiment-analysis)**  
+📈 **[Sentiment Analysis on Arabic Tweets](https://github.com/Mkaljermy/Sentiment-analysis-NLP-task)**  
 💡 Leveraged NLP techniques using Camel Tools to classify sentiment from Arabic text.  
 
 ---
